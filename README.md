@@ -42,4 +42,4 @@ Opções para adicionar e remover `serviços` aos projetos a fim de manter uma d
 | ---- | ------------- |
 
 |
-<img src="./img/Home.png" width="30%"></img> | <img src="./img/criar projeto.png" width="30%"></img> |
+<img src="./img/Home.png" width="10%"></img> | <img src="./img/criar projeto.png" width="10%"></img> |
