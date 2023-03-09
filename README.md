@@ -15,14 +15,14 @@ Para ajuda ao iniciar projetos em Flutter, visite a
 
 > Para executar este projeto, verifique os requisitos de instalação do Flutter na documentação online.
 
-- Faça o clone  desse projeto em algum diretório no seu computador
-- Abra um terminal neste diretório e execute o comando
+-   Faça o clone desse projeto em algum diretório no seu computador
+-   Abra um terminal neste diretório e execute o comando
 
 ```py
 flutter emulators --launch <id_do_emulador>
 ```
 
-- Após inicializar o emulador, execute o projeto com o comando
+-   Após inicializar o emulador, execute o projeto com o comando
 
 ```py
 flutter run
@@ -38,7 +38,8 @@ Opções para adicionar e remover `serviços` aos projetos a fim de manter uma d
 
 ## Screenshots
 
-| Home                 | Criar projeto   |
-| ---------------------| ----------------|
+| Home | Criar projeto |
+| ---- | ------------- |
+
 |
-<img src="./img/Home.png" width="50%"></img> | <img src="./img/criar projeto.png" width="50%"></img> |
+<img src="./img/Home.png" width="30%"></img> | <img src="./img/criar projeto.png" width="30%"></img> |
